@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\yazılım\diziler_array_sinifi_metodlari-csharp\bin\Debug\net7.0\diziler_array_sinifi_metodlari-csharp.exe
+C:\Users\user\Desktop\yazılım\diziler_array_sinifi_metodlari-csharp\bin\Debug\net7.0\diziler_array_sinifi_metodlari-csharp.deps.json
+C:\Users\user\Desktop\yazılım\diziler_array_sinifi_metodlari-csharp\bin\Debug\net7.0\diziler_array_sinifi_metodlari-csharp.runtimeconfig.json
+C:\Users\user\Desktop\yazılım\diziler_array_sinifi_metodlari-csharp\bin\Debug\net7.0\diziler_array_sinifi_metodlari-csharp.dll
+C:\Users\user\Desktop\yazılım\diziler_array_sinifi_metodlari-csharp\bin\Debug\net7.0\diziler_array_sinifi_metodlari-csharp.pdb
+C:\Users\user\Desktop\yazılım\diziler_array_sinifi_metodlari-csharp\obj\Debug\net7.0\diziler_array_sinifi_metodlari-csharp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\yazılım\diziler_array_sinifi_metodlari-csharp\obj\Debug\net7.0\diziler_array_sinifi_metodlari-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\yazılım\diziler_array_sinifi_metodlari-csharp\obj\Debug\net7.0\diziler_array_sinifi_metodlari-csharp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\yazılım\diziler_array_sinifi_metodlari-csharp\obj\Debug\net7.0\diziler_array_sinifi_metodlari-csharp.AssemblyInfo.cs
+C:\Users\user\Desktop\yazılım\diziler_array_sinifi_metodlari-csharp\obj\Debug\net7.0\diziler_array_sinifi_metodlari-csharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\yazılım\diziler_array_sinifi_metodlari-csharp\obj\Debug\net7.0\diziler_array_sinifi_metodlari-csharp.dll
+C:\Users\user\Desktop\yazılım\diziler_array_sinifi_metodlari-csharp\obj\Debug\net7.0\refint\diziler_array_sinifi_metodlari-csharp.dll
+C:\Users\user\Desktop\yazılım\diziler_array_sinifi_metodlari-csharp\obj\Debug\net7.0\diziler_array_sinifi_metodlari-csharp.pdb
+C:\Users\user\Desktop\yazılım\diziler_array_sinifi_metodlari-csharp\obj\Debug\net7.0\diziler_array_sinifi_metodlari-csharp.genruntimeconfig.cache
+C:\Users\user\Desktop\yazılım\diziler_array_sinifi_metodlari-csharp\obj\Debug\net7.0\ref\diziler_array_sinifi_metodlari-csharp.dll
